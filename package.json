@@ -19,5 +19,8 @@
   "engines": {
     "npm": "7.x",
     "node": "16.x"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1"
   }
 }
