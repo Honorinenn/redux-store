@@ -1,7 +1,7 @@
 # redux-store
  
 
-This application is a full stack web application built using the MERN Stack to create an e-commerce website using React and Redux with Stripe payments. It will enable users  to checkout when there is lost of connection and view their order history out of checkout. Users will have the possibility to sign up and login in to their account.
+This application is a full stack web application built using the MERN Stack to create an e-commerce website using React and Redux with Stripe payments. Users can select a category, choose a product, view details about it on the product page, and add and remove itfrom the shopping cart. It will enable users  to checkout when there is lost of connection and view their order history out of checkout. Users will have the possibility to sign up and login in to their account.Users can checkout by going to their shopping cart.
 
 ![License badge](https://img.shields.io/badge/license-MIT-builtinModules.svg)
      
